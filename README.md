@@ -17,4 +17,4 @@
 
 <h2 align="right">تماس با من ☎️</h2>
 
-<a href="https://www.instagram.com/dev_mohammad49/"><img src="https://github.com/Dev-MohammadReza/Dev-MohammadReza/blob/main/image/icons8-instagram-48.png"></a> <a href="https://t.me/Mohammad"><img src="https://github.com/Dev-MohammadReza/Dev-MohammadReza/blob/main/image/icons8-telegram-logo-64.png"></a> 
+<a href="https://www.instagram.com/dev_mohammad49/"><img src="https://github.com/Dev-MohammadReza/Dev-MohammadReza/blob/main/image/icons8-instagram-48.png"></a> <a href="https://t.me/Mohammad"><img src="https://github.com/Dev-MohammadReza/Dev-MohammadReza/blob/main/image/icons8-telegram-logo-50.png"></a> 
